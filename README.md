@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e sempre estu em busca de conhecimentos e aprimorar as minhas habilidades tecnologicas.
+Me chamo Allan de Souza Santana, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou apaixonada por tecnologia e sempre estu em busca de conhecimentos e aprimorar as minhas habilidades tecnológicas.
 
 
 
